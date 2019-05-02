@@ -26,7 +26,8 @@ SECRET_KEY = 'rvmp@dutxhb%^+yw*-1173%aah2dkfb@se0c6p)%i0rxa1xk+l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-todo-libby-h.c9users.io']
+ALLOWED_HOSTS = ['django-todo-libby-h.c9users.io',
+                'todo-django-april-30.herokuapp.com']
 
 
 # Application definition
